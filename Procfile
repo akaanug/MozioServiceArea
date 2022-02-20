@@ -1,0 +1,1 @@
+web: gunicorn MozioServiceAreas.wsgi --log-file -
